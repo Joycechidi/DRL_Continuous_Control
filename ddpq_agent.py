@@ -1,3 +1,4 @@
+### Credits to @MSJose and Udacity
 import numpy as np
 import random
 import copy
