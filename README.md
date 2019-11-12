@@ -12,7 +12,7 @@ The action is how the agent reacts to the environment.
 
 ![This is a plot of the scores](env_solved_p2.png)
 
-The environment is considered ‘solved’ when the ___moving__ average (arithmetic mean) score over the last 100 episodes is greater than or equal to __30.0__.
+The environment is considered ‘solved’ when the __moving__ average (arithmetic mean) score over the last 100 episodes is greater than or equal to __30.0__.
 
 # Directions
 Complete the following steps interact with this project:
