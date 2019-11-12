@@ -24,6 +24,7 @@ Complete the following steps interact with this project:
    - [Windows (32-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Windows_x86.zip)
    - [Windows (64-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Windows_x86_64.zip)
    - [MacOSX](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher.app.zip)
-3. Open `Continuous_Control.ipynb` using Jupyter Notebook (or Jupyter Lab)
-4. Click **Cell>Run All**
-5. Be patient as the magic happens
+3. Place the file you downloaded in this repo's folder on your computer and unzip (or decompress) the file [click here for help](https://github.com/udacity/deep-reinforcement-learning/tree/master/p2_continuous-control)
+4. Open `Continuous_Control.ipynb` using Jupyter Notebook (or Jupyter Lab)
+5. Click **Cell>Run All**
+6. Be patient as the magic happens
